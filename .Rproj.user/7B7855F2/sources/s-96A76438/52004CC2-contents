@@ -1,0 +1,3 @@
+#' function takes in 2 vectors, calculates the correlation coefficient between the 2
+#' @param vec1 first vector of data
+#' @param vec2 second vector of data

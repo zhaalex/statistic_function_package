@@ -1,0 +1,14 @@
+#' function takes in a single vector, and returns the population standard deviation of this
+#' @param vec vector of numbers
+#' @return the standard deviation of that set
+#' @examples 
+#' standardDev(vec)
+#' @export
+standardDev = function(vec){
+  mean <- sum(vec)/length(vec)
+  finalValue <- 0
+  for (i in 1:length(vec)){
+    finalValue <- finalValue + (vec[i] - mean)**2
+  }
+  return( sqrt(finalValue/length(vec)) )
+}

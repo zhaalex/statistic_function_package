@@ -1,0 +1,12 @@
+Package: statisticsFuncs
+Type: Package
+Title: Functions for Statistics
+Version: 0.1.0
+Author: person("Alex", "Zhang", email = "alexzhang2016@gmail.com", role = c("aut", "cre"))
+#Maintainer:                           [Who's handling issues (see ?person)]
+Description: Stdev, corrCoef, 
+License: MIT
+Encoding: UTF-8
+Imports:                              [Essential packages]
+Suggests: 
+LazyData: TRUE

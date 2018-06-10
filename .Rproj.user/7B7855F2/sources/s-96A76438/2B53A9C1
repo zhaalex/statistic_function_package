@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528650400859.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2B53A9C1",
+    "lastKnownWriteTime" : 1528651621,
+    "last_content_update" : 1528651621330,
+    "path" : "~/Documents/Umich/iXperience/Projects/PackageProj/R/correlationCoef.R",
+    "project_path" : "R/correlationCoef.R",
+    "properties" : {
+        "cursorPosition" : "24,68",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
