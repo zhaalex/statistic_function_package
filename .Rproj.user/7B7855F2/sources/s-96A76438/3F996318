@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528659443222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2113906257",
+    "id" : "3F996318",
+    "lastKnownWriteTime" : 1528704204,
+    "last_content_update" : 1528704204295,
+    "path" : "~/Documents/Umich/iXperience/Projects/PackageProj/tests/testthat/test_std.R",
+    "project_path" : "tests/testthat/test_std.R",
+    "properties" : {
+        "cursorPosition" : "2,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
